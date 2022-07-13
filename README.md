@@ -1,2 +1,3 @@
-# bot
-Playground Slack ChatOps Bot
+# Bot - Octobot!
+
+A WIP Slack ChatOps Bot
